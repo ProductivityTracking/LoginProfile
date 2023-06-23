@@ -1,0 +1,6 @@
+com\spring\dao\Profdaoimpl.class
+com\spring\model\ProfileModel.class
+com\spring\model\ProfileMapper.class
+com\spring\controller\ProfileController.class
+com\spring\dao\Profdao.class
+com\spring\appconfig\AppConfig.class
